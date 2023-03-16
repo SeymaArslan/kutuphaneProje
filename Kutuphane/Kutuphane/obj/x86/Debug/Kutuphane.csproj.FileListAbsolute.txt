@@ -1,0 +1,22 @@
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Form1.resources
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.exe
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.pdb
+C:\Users\Emre\Desktop\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Form2.resources
+C:\Users\Emre\Desktop\DERSLER\PROGRAMLAMA c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.exe
+C:\Users\Emre\Desktop\DERSLER\PROGRAMLAMA c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.pdb
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.exe
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.pdb
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Form1.resources
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Form2.resources
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emre\Desktop\c#\kütüphane\Kutuphane\Kutuphane\obj\x86\Debug\GenerateResource.write.1.tlog
